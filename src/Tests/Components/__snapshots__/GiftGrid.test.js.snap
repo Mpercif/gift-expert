@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del componente GifGrid Renderizacion del componente  1`] = `
+<Fragment>
+  <h2>
+    Dragon Ball
+  </h2>
+  <p
+    className="animate__bounce"
+  >
+    'Cargando...'
+  </p>
+  <div
+    className="card-grid animate__bounce"
+  />
+</Fragment>
+`;

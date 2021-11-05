@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modulo GifGridItem Debe renderizar correctamente el item  1`] = `
+Object {
+  "wraper": <div
+    className="card animate__bounceInRight"
+  >
+    <img
+      alt="Kachan"
+      src="https://media3.giphy.com/media/21PccxrfPVOV1lhBAQ/giphy.gif?cid=4978c6e2rfe8uml2x9w8i9av35kqtkimm04wb2lz3zivj33c&rid=giphy.gif&ct=g\\""
+    />
+    <p
+      className="textBox"
+    >
+      Kachan
+    </p>
+  </div>,
+}
+`;
